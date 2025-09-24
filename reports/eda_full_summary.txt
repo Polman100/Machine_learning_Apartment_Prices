@@ -1,0 +1,53 @@
+Head:
+        city  squareMeters  rooms  floor  floorCount  buildYear  centreDistance  ...  pharmacyDistance  hasParkingSpace  hasBalcony  hasElevator  hasSecurity  hasStorageRoom   price
+0  bialystok          58.6    3.0    4.0        11.0     1984.0            2.98  ...             0.212              yes         yes          yes           no             yes  379000
+1  bialystok          71.8    4.0    3.0         4.0     1991.0            3.01  ...             0.243               no         yes           no           no             yes  650000
+2  bialystok          39.1    2.0    2.0         4.0        NaN            2.82  ...             0.256               no          no           no           no              no  308000
+3  bialystok          48.0    3.0    1.0         3.0     1993.0            3.19  ...             0.134               no          no           no           no              no  459000
+4  bialystok          73.0    3.0    2.0         3.0     2003.0            0.82  ...             0.124              yes         yes           no           no              no  640000
+
+[5 rows x 21 columns]
+
+Info:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 87457 entries, 0 to 87456
+Data columns (total 21 columns):
+ #   Column                Non-Null Count  Dtype  
+---  ------                --------------  -----  
+ 0   city                  87457 non-null  object 
+ 1   squareMeters          87457 non-null  float64
+ 2   rooms                 87457 non-null  float64
+ 3   floor                 87457 non-null  float64
+ 4   floorCount            87457 non-null  float64
+ 5   buildYear             72814 non-null  float64
+ 6   centreDistance        87457 non-null  float64
+ 7   poiCount              87457 non-null  float64
+ 8   schoolDistance        87457 non-null  float64
+ 9   clinicDistance        87457 non-null  float64
+ 10  postOfficeDistance    87457 non-null  float64
+ 11  kindergartenDistance  87457 non-null  float64
+ 12  restaurantDistance    87457 non-null  float64
+ 13  collegeDistance       87457 non-null  float64
+ 14  pharmacyDistance      87457 non-null  float64
+ 15  hasParkingSpace       87457 non-null  object 
+ 16  hasBalcony            87457 non-null  object 
+ 17  hasElevator           87457 non-null  object 
+ 18  hasSecurity           87457 non-null  object 
+ 19  hasStorageRoom        87457 non-null  object 
+ 20  price                 87457 non-null  int64  
+dtypes: float64(14), int64(1), object(6)
+memory usage: 14.0+ MB
+
+
+Describe:
+       squareMeters         rooms         floor    floorCount     buildYear  ...  kindergartenDistance  restaurantDistance  collegeDistance  pharmacyDistance         price
+count  87457.000000  87457.000000  87457.000000  87457.000000  72814.000000  ...          87457.000000        87457.000000     87457.000000      87457.000000  8.745700e+04
+mean      54.537169      2.545171      3.145660      5.488046   1987.074010  ...              0.354057            0.344522         1.490987          0.353032  7.214936e+05
+std       17.648046      0.821173      2.436383      3.335117     31.300611  ...              0.432043            0.452335         1.103526          0.447599  3.038791e+05
+min       25.000000      1.000000      0.000000      1.000000   1850.000000  ...              0.001000            0.001000         0.004000          0.001000  1.850000e+05
+25%       42.000000      2.000000      1.000000      3.000000   1970.000000  ...              0.151000            0.119000         0.622000          0.142000  5.150000e+05
+50%       51.770000      2.000000      2.000000      4.000000   1992.000000  ...              0.251000            0.234000         1.182000          0.238000  6.700000e+05
+75%       63.540000      3.000000      4.000000      7.000000   2015.000000  ...              0.401000            0.406000         2.103000          0.401000  8.680000e+05
+max      150.000000      6.000000     25.000000     29.000000   2024.000000  ...              4.961000            4.985000         5.000000          4.992000  1.873000e+06
+
+[8 rows x 15 columns]

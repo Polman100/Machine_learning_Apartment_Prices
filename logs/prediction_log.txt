@@ -1,0 +1,580 @@
+
+--- Prediction at 2025-09-06 23:31:15.607431 ---
+Input: {"city": "gdañsk", "buildYear": 1992.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "no", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 1.0}
+Output: 747144.06
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:32:54.230289 ---
+Input: {"city": "gdañsk", "buildYear": 1992.0, "squareMeters": 100.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "no", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 1.0}
+Output: 1418006.38
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:57:25.130949 ---
+Input: {"city": "gdynia", "buildYear": 0.0, "squareMeters": 0.0, "rooms": 0.0, "floor": 0.0, "floorCount": 0.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 335151.59
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:04.412940 ---
+Input: {"city": "gdynia", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:12.946313 ---
+Input: {"city": "no", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:14.667192 ---
+Input: {"city": "no", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:16.026641 ---
+Input: {"city": "no", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:21.444123 ---
+Input: {"city": "gdañsk", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:23.527341 ---
+Input: {"city": "gdañsk", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:33.250655 ---
+Input: {"city": "gdañsk", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:58:35.548308 ---
+Input: {"city": "gdañsk", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:59:12.332951 ---
+Input: {"city": "gdañsk", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:59:48.533909 ---
+Input: {"city": "dupa", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 979777.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-06 23:59:55.186514 ---
+Input: {"city": "no", "buildYear": 2010.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 991018.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:00:00.491150 ---
+Input: {"city": "warszawa", "buildYear": 2010.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1280859.75
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:00:05.861914 ---
+Input: {"city": "gdañsk", "buildYear": 2010.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 991018.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:00:10.841944 ---
+Input: {"city": "gdansk", "buildYear": 2010.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1057087.38
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:00:15.838193 ---
+Input: {"city": "gdansk", "buildYear": 2004.0, "squareMeters": 56.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1057436.12
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:02:22.777640 ---
+Input: {"city": "gdansk", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1025631.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:02:34.637103 ---
+Input: {"city": "no", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 950239.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:02:41.741703 ---
+Input: {"city": "no", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 950239.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:02:45.204127 ---
+Input: {"city": "no", "buildYear": 2013.0, "squareMeters": 55.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1249065.25
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:02:48.951270 ---
+Input: {"city": "no", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 950239.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:02:55.248894 ---
+Input: {"city": "no", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 950239.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:02:56.478093 ---
+Input: {"city": "no", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 950239.00
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:03:04.252846 ---
+Input: {"city": "warszawa", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1165764.75
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 00:03:09.040614 ---
+Input: {"city": "gdansk", "buildYear": 2013.0, "squareMeters": 45.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1025631.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:16:33.313439 ---
+Input: {"city": "gdañsk", "buildYear": 2005.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 882049.56
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:16:41.294698 ---
+Input: {"city": "gdañsk", "buildYear": 2005.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 882049.56
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:20:43.874263 ---
+Input: {"city": "gdañsk", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:20:49.496159 ---
+Input: {"city": "gdañsk", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:20:53.985164 ---
+Input: {"city": "gdañsk", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:20:57.084126 ---
+Input: {"city": "gdañsk", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:21:01.886854 ---
+Input: {"city": "gdañsk", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "yes", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:21:04.757327 ---
+Input: {"city": "gdañsk", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:21:09.403057 ---
+Input: {"city": "kraków", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:21:12.580414 ---
+Input: {"city": "warszawa", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1173401.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:21:15.299176 ---
+Input: {"city": "kraków", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:21:20.111530 ---
+Input: {"city": "gdañsk", "buildYear": 2000.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 863431.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:32:59.261072 ---
+Input: {"city": "bialystok", "buildYear": 0.0, "squareMeters": 0.0, "rooms": 0.0, "floor": 0.0, "floorCount": 0.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 279299.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:33:30.700765 ---
+Input: {"city": "bialystok", "buildYear": 2005.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 540647.38
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:33:43.999264 ---
+Input: {"city": "bialystok", "buildYear": 2005.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 540647.38
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:33:48.372004 ---
+Input: {"city": "bialystok", "buildYear": 2005.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 4.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 471133.59
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:42:35.134262 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 279299.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:42:40.514331 ---
+Input: {"city": "gdynia", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 335151.59
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:42:43.334646 ---
+Input: {"city": "gdynia", "hasParkingSpace": 1, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 335151.59
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:42:45.740964 ---
+Input: {"city": "gdynia", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 335151.59
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-07 17:42:52.744401 ---
+Input: {"city": "gdynia", "hasParkingSpace": 0, "hasBalcony": 1, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 335151.59
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:14:45.289598 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:14:51.149839 ---
+Input: {"city": "bialystok", "hasParkingSpace": 1, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:14:54.425306 ---
+Input: {"city": "bialystok", "hasParkingSpace": 1, "hasBalcony": 1, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:14:56.873864 ---
+Input: {"city": "bialystok", "hasParkingSpace": 1, "hasBalcony": 1, "hasElevator": 1, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:15:30.313053 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:15:33.873357 ---
+Input: {"city": "bialystok", "hasParkingSpace": 1, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:15:36.953314 ---
+Input: {"city": "bialystok", "hasParkingSpace": 1, "hasBalcony": 1, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:16:50.863734 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:16:59.989859 ---
+Input: {"city": "gdansk", "hasParkingSpace": 1, "hasBalcony": 1, "hasElevator": 1, "hasSecurity": 1, "hasStorageRoom": 1}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:17:07.505616 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:17:24.233278 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:17:26.232638 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:17:29.959471 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:17:38.155770 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:17:41.469378 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:17:59.882683 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:21:29.097795 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:21:36.773239 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 572966.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:22:14.337680 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:22:18.381509 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:22:24.658618 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 325857.31
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:26:38.717763 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 279299.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:26:42.128365 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 279299.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:26:46.254212 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 279299.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:26:49.137200 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 279299.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:26:56.383405 ---
+Input: {"city": "bialystok", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 279299.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:27:03.144378 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 434654.22
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:27:06.971287 ---
+Input: {"city": "gdansk", "hasParkingSpace": 0, "hasBalcony": 0, "hasElevator": 0, "hasSecurity": 0, "hasStorageRoom": 0}
+Output: 434654.22
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:37:29.773879 ---
+Input: {"city": "bialystok", "buildYear": 2005.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 466985.72
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:37:34.605764 ---
+Input: {"city": "bialystok", "buildYear": 2005.0, "squareMeters": 150.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 674840.44
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:37:46.959722 ---
+Input: {"city": "gdansk", "buildYear": 2020.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 854360.75
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:37:54.358183 ---
+Input: {"city": "gdansk", "buildYear": 2020.0, "squareMeters": 150.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 1149358.38
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:37:58.284383 ---
+Input: {"city": "gdansk", "buildYear": 2020.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 854360.75
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:38:06.162536 ---
+Input: {"city": "gdansk", "buildYear": 2020.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "yes", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 961117.75
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:41:05.603850 ---
+Input: {"city": "gdansk", "buildYear": 2013.0, "squareMeters": 51.0, "rooms": 2.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 970784.69
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:42:49.508623 ---
+Input: {"city": "gdansk", "buildYear": 2004.0, "squareMeters": 60.0, "rooms": 3.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 861939.94
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:43:42.661987 ---
+Input: {"city": "gdansk", "buildYear": 1956.0, "squareMeters": 67.0, "rooms": 3.0, "floor": 3.0, "floorCount": 3.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 905516.19
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:45:50.033411 ---
+Input: {"city": "szczecin", "buildYear": 2012.0, "squareMeters": 74.0, "rooms": 3.0, "floor": 3.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 822966.81
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:47:05.161126 ---
+Input: {"city": "szczecin", "buildYear": 2012.0, "squareMeters": 74.0, "rooms": 3.0, "floor": 3.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 822966.81
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:47:09.483448 ---
+Input: {"city": "szczecin", "buildYear": 2020.0, "squareMeters": 74.0, "rooms": 3.0, "floor": 3.0, "floorCount": 4.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 830116.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:47:58.216781 ---
+Input: {"city": "gdansk", "buildYear": 2020.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 5.0, "floorCount": 7.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1053647.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:48:34.913201 ---
+Input: {"city": "gdansk", "buildYear": 1980.0, "squareMeters": 50.0, "rooms": 2.0, "floor": 5.0, "floorCount": 7.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 770589.12
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:58:44.391824 ---
+Input: {"city": "gdansk", "buildYear": 2005.0, "squareMeters": 60.0, "rooms": 4.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 964779.62
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 13:58:57.555047 ---
+Input: {"city": "gdansk", "buildYear": 2005.0, "squareMeters": 60.0, "rooms": 4.0, "floor": 1.0, "floorCount": 4.0, "hasParkingSpace": "yes", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 0.0}
+Output: 964779.62
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 14:01:12.366639 ---
+Input: {"city": "gdansk", "buildYear": 1950.0, "squareMeters": 58.0, "rooms": 2.0, "floor": 1.0, "floorCount": 2.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1011853.75
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 14:01:36.464127 ---
+Input: {"city": "gdansk", "buildYear": 1950.0, "squareMeters": 58.0, "rooms": 2.0, "floor": 1.0, "floorCount": 2.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 0.0}
+Output: 1011853.75
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-14 14:07:57.019106 ---
+Input: {"city": "gdansk", "buildYear": 1950.0, "squareMeters": 58.0, "rooms": 2.0, "floor": 1.0, "floorCount": 2.0, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3.5}
+Output: 991567.44
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:02:30.143813 ---
+Input: {"city": "gdynia", "buildYear": 2012, "squareMeters": 50.0, "rooms": 2, "floor": 1, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 645432.69
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:05:27.161610 ---
+Input: {"city": "gdansk", "buildYear": 1973, "squareMeters": 46.0, "rooms": 2, "floor": 9, "floorCount": 10, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 522145.62
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:05:36.638462 ---
+Input: {"city": "gdansk", "buildYear": 1973, "squareMeters": 46.0, "rooms": 2, "floor": 9, "floorCount": 10, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 521919.78
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:05:40.801704 ---
+Input: {"city": "gdansk", "buildYear": 1973, "squareMeters": 46.0, "rooms": 2, "floor": 9, "floorCount": 10, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 522145.62
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:05:45.703060 ---
+Input: {"city": "gdansk", "buildYear": 1973, "squareMeters": 46.0, "rooms": 2, "floor": 9, "floorCount": 10, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 521919.78
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:05:48.506665 ---
+Input: {"city": "gdansk", "buildYear": 1973, "squareMeters": 46.0, "rooms": 2, "floor": 9, "floorCount": 10, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 522145.62
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:08:18.895466 ---
+Input: {"city": "gdansk", "buildYear": 1973, "squareMeters": 46.0, "rooms": 2, "floor": 9, "floorCount": 10, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 9.0, "clinicDistance": 4.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 526207.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:10:16.296170 ---
+Input: {"city": "gdansk", "buildYear": 2012, "squareMeters": 74.0, "rooms": 3, "floor": 2, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 827525.44
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:10:48.246762 ---
+Input: {"city": "gdansk", "buildYear": 1948, "squareMeters": 74.0, "rooms": 3, "floor": 2, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 704843.81
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:11:05.345743 ---
+Input: {"city": "gdansk", "buildYear": 1948, "squareMeters": 74.0, "rooms": 3, "floor": 2, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 704843.81
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:11:14.307169 ---
+Input: {"city": "gdansk", "buildYear": 1948, "squareMeters": 74.0, "rooms": 3, "floor": 2, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 704843.81
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:15:50.376951 ---
+Input: {"city": "szczecin", "buildYear": 1948, "squareMeters": 53.4, "rooms": 2, "floor": 4, "floorCount": 4, "hasParkingSpace": "yes", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 76, "centreDistance": 15.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 452702.09
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:17:04.826376 ---
+Input: {"city": "szczecin", "buildYear": 1948, "squareMeters": 53.4, "rooms": 2, "floor": 4, "floorCount": 4, "hasParkingSpace": "yes", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 76, "centreDistance": 15.0, "clinicDistance": 0.3, "restaurantDistance": 0.5, "collegeDistance": 0.5, "pharmacyDistance": 0.5, "postOfficeDistance": 0.5, "schoolDistance": 0.2, "kindergartenDistance": 0.5}
+Output: 447069.09
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:17:31.110548 ---
+Input: {"city": "szczecin", "buildYear": 0, "squareMeters": 53.4, "rooms": 2, "floor": 4, "floorCount": 4, "hasParkingSpace": "yes", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 76, "centreDistance": 15.0, "clinicDistance": 0.3, "restaurantDistance": 0.5, "collegeDistance": 0.5, "pharmacyDistance": 0.5, "postOfficeDistance": 0.5, "schoolDistance": 0.2, "kindergartenDistance": 0.5}
+Output: 414382.03
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:23:53.028321 ---
+Input: {"city": "gdansk", "buildYear": 2024, "squareMeters": 44.0, "rooms": 2, "floor": 2, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 6, "centreDistance": 5.5, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 1.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 609202.88
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:25:04.748861 ---
+Input: {"city": "gdansk", "buildYear": 2024, "squareMeters": 44.0, "rooms": 2, "floor": 2, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "yes", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 6, "centreDistance": 5.5, "clinicDistance": 1.5, "restaurantDistance": 0.5, "collegeDistance": 4.0, "pharmacyDistance": 0.5, "postOfficeDistance": 0.5, "schoolDistance": 0.5, "kindergartenDistance": 0.5}
+Output: 615630.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T19:30:03.571145 ---
+Input: {"city": "wroclaw", "buildYear": 1993, "squareMeters": 74.8, "rooms": 4, "floor": 2, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "yes", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "yes", "poiCount": 9, "centreDistance": 5.7, "clinicDistance": 1.5, "restaurantDistance": 0.5, "collegeDistance": 1.0, "pharmacyDistance": 2.5, "postOfficeDistance": 0.5, "schoolDistance": 0.5, "kindergartenDistance": 0.5}
+Output: 798367.88
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T20:47:33.819696 ---
+Input: {"city": "gdynia", "buildYear": 2012, "squareMeters": 50.0, "rooms": 2, "floor": 1, "floorCount": 4, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 2.0, "restaurantDistance": 1.0, "collegeDistance": 4.0, "pharmacyDistance": 1.0, "postOfficeDistance": 3.0, "schoolDistance": 1.0, "kindergartenDistance": 1.0}
+Output: 645432.69
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T20:55:29.042715 ---
+Input: {"city": "radom", "buildYear": 4, "squareMeters": 6.0, "rooms": 2, "floor": 3, "floorCount": 2, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 0.0, "restaurantDistance": 0.0, "collegeDistance": 0.0, "pharmacyDistance": 0.0, "postOfficeDistance": 0.0, "schoolDistance": 0.0, "kindergartenDistance": 0.0}
+Output: 293961.66
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T20:55:37.549917 ---
+Input: {"city": "radom", "buildYear": 2000, "squareMeters": 6.0, "rooms": 2, "floor": 3, "floorCount": 2, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 0.0, "restaurantDistance": 0.0, "collegeDistance": 0.0, "pharmacyDistance": 0.0, "postOfficeDistance": 0.0, "schoolDistance": 0.0, "kindergartenDistance": 0.0}
+Output: 323026.50
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
+
+--- Prediction at 2025-09-22T20:55:42.037115 ---
+Input: {"city": "radom", "buildYear": 5, "squareMeters": 6.0, "rooms": 2, "floor": 3, "floorCount": 2, "hasParkingSpace": "no", "hasBalcony": "no", "hasElevator": "no", "hasSecurity": "no", "hasStorageRoom": "no", "poiCount": 3, "centreDistance": 5.0, "clinicDistance": 0.0, "restaurantDistance": 0.0, "collegeDistance": 0.0, "pharmacyDistance": 0.0, "postOfficeDistance": 0.0, "schoolDistance": 0.0, "kindergartenDistance": 0.0}
+Output: 293961.66
+Features used: ['squareMeters', 'rooms', 'floor', 'floorCount', 'buildYear', 'centreDistance', 'poiCount', 'schoolDistance', 'clinicDistance', 'postOfficeDistance', 'kindergartenDistance', 'restaurantDistance', 'collegeDistance', 'pharmacyDistance', 'hasParkingSpace', 'hasBalcony', 'hasElevator', 'hasSecurity', 'hasStorageRoom', 'city_loo']
